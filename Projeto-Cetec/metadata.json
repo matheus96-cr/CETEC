@@ -1,0 +1,6 @@
+{
+  "name": "UTEC Dashboard",
+  "description": "Painel de análise em tempo real e monitoramento de recursos para a Secretaria Executiva de Projetos, Tecnologia e Inovação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
